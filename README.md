@@ -9,7 +9,7 @@ Primer examen parcial · Programación para Dispositivos Móviles · Ingeniería
 |---|---|
 | Nombre visible | Turco |
 | Application id | `com.eduardosalgueiro.turco` |
-| Versión de Flutter usada | ESCRIBE AQUÍ el resultado de `flutter --version` (ej. Flutter 3.xx.x · Dart 3.x.x) |
+| Versión de Flutter usada | 3.47.5 |
 | Arquitectura | MVVM con `ChangeNotifier` + `ListenableBuilder` (sin paquetes de estado externos) |
 | Navegación | `go_router` con `StatefulShellRoute.indexedStack` |
 | Datos | En memoria, cargados desde `lib/data/seed_data.dart` (fechas calculadas con `DateTime.now()`) |
