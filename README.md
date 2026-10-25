@@ -1,7 +1,6 @@
 # Turco
 
 Aplicación Flutter (Android) para gestionar los turnos de una peluquería mixta.
-Primer examen parcial · Programación para Dispositivos Móviles · Ingeniería Informática, 3.er año.
 
 ## Datos del proyecto
 
