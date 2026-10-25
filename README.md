@@ -19,7 +19,7 @@ Primer examen parcial · Programación para Dispositivos Móviles · Ingeniería
 Requisitos: Flutter instalado, Android SDK y un emulador o teléfono Android (`flutter doctor` sin errores).
 
 ```bash
-git clone <URL-DEL-REPOSITORIO>
+git clone https://github.com/edsallo05/Turco.git
 cd turco
 flutter pub get
 ```
@@ -38,7 +38,6 @@ flutter build apk --release
 ```
 
 El archivo queda en `build/app/outputs/flutter-apk/app-release.apk`.
-Una copia se guarda en la carpeta `entrega/` y también se publica en la sección **Releases** del repositorio de GitHub.
 
 ## Recursos
 
